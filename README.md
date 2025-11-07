@@ -6,7 +6,7 @@ It features a clean and responsive design that works smoothly across all devices
 ---
 
 ## 🚀 Live Demo
-👉 [View Portfolio](#) *(https://sadiah-rahman.github.io/portfolio/)*
+👉 [View Portfolio](#) *https://sadiah-rahman.github.io/portfolio/*
 
 ---
 
